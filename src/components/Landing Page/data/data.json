@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "KIITWISE",
+    "paragraph": "Your Gateway to a Smarter Future"
+  },
+  "About": {
+    "paragraph": "This project is an innovative attendance management system that leverages geolocation technology to ensure a secure and accurate attendance recording process. It streamlines the attendance process for both teachers and students in educational institutions. The system allows teachers to generate a unique One-Time Password (OTP) for each class session, which students must enter within a specified time limit to confirm their attendance. To further enhance the security and accuracy of the system, students must be within a certain proximity to the teacher's location when submitting their attendance. By utilizing this modern approach, the attendance management system offers a convenient, efficient, and reliable solution for tracking student attendance in a digital era.",
+    "Why": [
+      "Secure",
+      "Accurate",
+      "Geolocation-based",
+      "Time-bound OTPs"
+    ],
+    "Why2": [
+      "Proximity validation",
+      "Efficient",
+      "Digital tracking",
+      "Easy-to-use"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Teacher Authentication",
+      "text": "Securely sign in and manage teacher accounts, ensuring that only authorized users can access the system."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Student Verification",
+      "text": "Verify the identity of students and maintain accurate attendance records by generating OTPs and matching them with the registered students."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Attendance Tracking",
+      "text": "Automatically track and record student attendance, providing an organized and efficient way to manage attendance data."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Geolocation-based Attendance",
+      "text": "Utilize geolocation technology to confirm the physical presence of students during attendance sessions, reducing the risk of fraudulent attendance."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Export Attendance Data",
+      "text": "Easily download and save attendance data as CSV files, enabling teachers to analyze, share, and store the information for future reference."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Customizable Class Settings",
+      "text": "Manage class settings, such as subject and section, allowing teachers to tailor the attendance process to their specific courses and students."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sagar Satapathy",
+      "job": "DevOps"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Ayush Sinha",
+      "job": "MlOps"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ritwik Rudra",
+      "job": "5 ⭐ Problem Solver"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ashutosh Kumar Singh",
+      "job": "Cloud Advocate"
+    }
+  ],
+  "Contact": {
+    "address": "Kalinga Institute of Industrial Technology ",
+    "email": "2005261@kiit.ac.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Geolocation Validation",
+      "text": "Ensure accurate attendance by verifying students' proximity to the teacher."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Time-Bound OTPs",
+      "text": "Enhance security with OTPs that expire after a specified time, preventing misuse."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Digital Record Keeping",
+      "text": "Easily track and store attendance data digitally for streamlined access and analysis."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "User-Friendly Interface",
+      "text": "Simple and intuitive interface for teachers and students, making attendance submission hassle-free."
+    }
+  ]
+}
